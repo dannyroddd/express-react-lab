@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1 - Sports Trivia Game",
+      "name": "Sports Trivia Game",
       "live": "https://dannyroddd.github.io/Sports-Trivia-Game/",
       "git": "https://github.com/dannyroddd/Sports-Trivia-Game",
-      "image": ""
+      "image": "https://i.imgur.com/HTm9GrB.png"
     },
     {
-      "name": "project2 - Fitness Routine Tracker",
+      "name": "Fitness Routine Tracker",
       "live": "https://daniel-project2.herokuapp.com/",
       "git": "https://github.com/dannyroddd/project2",
-      "image": ""
+      "image": "https://i.imgur.com/1yEkMEz.png"
     }
   ]
